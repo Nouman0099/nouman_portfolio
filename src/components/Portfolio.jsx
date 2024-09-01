@@ -36,7 +36,7 @@ export default function Portfolio() {
   return (
     <div
       name="portfolio"
-      className="bg-gradient-to-b from-black to-gray-800 text-white w-full"
+      className="bg-gradient-to-b from-black to-gray-800 text-white w-full pt-20"
     >
       <div className="flex flex-col justify-center p-4 w-full h-full max-w-screen-lg mx-auto ">
         <div className="pb-8">
